@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an Instagram Clone**
 
-- 🌱 I’m currently learning **React Native, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning/Deep Learning Projects**
 
