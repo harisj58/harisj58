@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisj58" alt="harisj58" /></a> </p>
 
-- 🔭 I’m currently working on **an Instagram Clone**
+- 🔭 I’m currently working on **Sentiment Analysis Tool**
 
 - 🌱 I’m currently learning **Deep Learning**
 
