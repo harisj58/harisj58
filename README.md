@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisj58" alt="harisj58" /></a> </p>
 
-- 🔭 I’m currently working on **Sentiment Analysis Tool**
+- 🔭 I’m currently working on **Farmer Vision**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Advanced TensorFlow**
 
 - 👯 I’m looking to collaborate on **Machine Learning/Deep Learning Projects**
 
