@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisj58" alt="harisj58" /></a> </p>
 
-- 🔭 I’m currently working on **Farmer Vision**
+- 👔 I currently work at **[Pluto Money](https://plutomoney.in)** as an **AI/ML Intern**
 
-- 🌱 I’m currently learning **Advanced TensorFlow**
+- 🔭 I’m currently working on **Screener.ai** 
+
+- 🌱 I’m currently learning **Generative UI**
 
 - 👯 I’m looking to collaborate on **Machine Learning/Deep Learning Projects**
 
@@ -15,7 +17,7 @@
 
 - 💬 Ask me about **Java, Python, C**
 
-- 📫 How to reach me **harisj58@gmail.com**
+- 📫 How to reach me **dev.harisjaved@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-hCYhdSxDX40zUp2hk4ZWBxxedjE4sQW/view?usp=sharing](https://drive.google.com/file/d/1-hCYhdSxDX40zUp2hk4ZWBxxedjE4sQW/view?usp=sharing)
 
@@ -23,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/haris-javed-460337188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haris-javed-460337188" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/me-haris-javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haris-javed-460337188" height="30" width="40" /></a>
 <a href="https://kaggle.com/prosekutor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prosekutor" height="30" width="40" /></a>
 <a href="https://instagram.com/@harisjaved.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@harisjaved.exe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harisj58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harisj58" height="30" width="40" /></a>
